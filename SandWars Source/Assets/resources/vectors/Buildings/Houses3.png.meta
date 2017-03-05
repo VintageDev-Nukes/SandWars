@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: acb9af676d0c72747aea359f683e971d
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Houses3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3007
+        width: 473
+        height: 653
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Houses3_1
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 3011
+        width: 419
+        height: 616
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Houses3_2
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 2967
+        width: 426
+        height: 653
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Houses3_3
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 2949
+        width: 390
+        height: 498
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Houses3_4
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 2892
+        width: 559
+        height: 796
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Houses3_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2203
+        width: 1170
+        height: 656
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Houses3_6
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 2196
+        width: 433
+        height: 645
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Houses3_7
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 2181
+        width: 1155
+        height: 501
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Houses3_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1648
+        width: 473
+        height: 393
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Houses3_9
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1644
+        width: 419
+        height: 393
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Houses3_10
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1640
+        width: 343
+        height: 393
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Houses3_11
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1619
+        width: 268
+        height: 447
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Houses3_12
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 1615
+        width: 740
+        height: 447
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Houses3_13
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 1601
+        width: 494
+        height: 487
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Houses3_14
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 952
+        width: 606
+        height: 476
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Houses3_15
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 901
+        width: 725
+        height: 559
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Houses3_16
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 887
+        width: 570
+        height: 501
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Houses3_17
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 826
+        width: 554
+        height: 544
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Houses3_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 36
+        width: 899
+        height: 602
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Houses3_19
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 40
+        width: 332
+        height: 515
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Houses3_20
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 36
+        width: 282
+        height: 379
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Houses3_21
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 14
+        width: 332
+        height: 422
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Houses3_22
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 43
+        width: 224
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Houses3_23
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 36
+        width: 224
+        height: 472
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Houses3_24
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 2915
+        width: 315
+        height: 752
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Houses3_25
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 0
+        width: 675
+        height: 381
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Houses3_26
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 876
+        width: 317
+        height: 388
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

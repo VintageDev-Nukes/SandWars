@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 110e1ae3b153da14e9c0feffcc2e6657
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Houses2_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2867
+        width: 697
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Houses2_1
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 2888
+        width: 426
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Houses2_2
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 2884
+        width: 382
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Houses2_3
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 2902
+        width: 434
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Houses2_4
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 2902
+        width: 509
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Houses2_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1969
+        width: 475
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Houses2_6
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1931
+        width: 541
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Houses2_7
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1959
+        width: 403
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Houses2_8
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 1976
+        width: 451
+        height: 669
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Houses2_9
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1986
+        width: 455
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Houses2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 943
+        width: 1051
+        height: 773
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Houses2_11
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 908
+        width: 382
+        height: 739
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Houses2_12
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 915
+        width: 385
+        height: 773
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Houses2_13
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 898
+        width: 309
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Houses2_14
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 887
+        width: 600
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Houses2_15
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 45
+        width: 649
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Houses2_16
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 45
+        width: 382
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Houses2_17
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 28
+        width: 281
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Houses2_18
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 21
+        width: 270
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Houses2_19
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 0
+        width: 281
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Houses2_20
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 14
+        width: 326
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Houses2_21
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 0
+        width: 406
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

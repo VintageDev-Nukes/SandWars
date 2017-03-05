@@ -1,0 +1,2353 @@
+fileFormatVersion: 2
+guid: 782f9a5682c06644db1d454254af623b
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: mc sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 721
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 721
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 721
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 721
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 721
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 721
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 721
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 721
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 721
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 721
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 721
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 721
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 721
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 721
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 721
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 721
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 673
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 673
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 673
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 673
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 673
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 673
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 673
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 673
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 673
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_25
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 673
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 673
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_27
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 673
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_28
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 673
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_29
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 673
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_30
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 673
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_31
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 673
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 625
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 625
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 625
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 625
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 625
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 625
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_38
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 625
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_39
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 625
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 625
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_41
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 625
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 625
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_43
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 625
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_44
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 625
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_45
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 625
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_46
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 625
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_47
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 625
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 577
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 577
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 577
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 577
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 577
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 577
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 577
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_55
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 577
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 577
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_57
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 577
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_58
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 577
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_59
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 577
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_60
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 577
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_61
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 577
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_62
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 577
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_63
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 577
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 529
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_65
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 529
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 529
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_67
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 529
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 529
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_69
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 529
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_70
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 529
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_71
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 529
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 529
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_73
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 529
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_74
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 529
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_75
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 529
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_76
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 529
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_77
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 529
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_78
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 529
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_79
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 529
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 481
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_81
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 481
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mc sprite_82
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 481
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mc sprite_83
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 481
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_84
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 481
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_85
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 481
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 481
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_87
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 481
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_88
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 481
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_89
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 481
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_90
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 481
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_91
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 481
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_92
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 481
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_93
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 481
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_94
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 481
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_95
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 481
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 433
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_97
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 433
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mc sprite_98
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 433
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mc sprite_99
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 433
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_100
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 433
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_101
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 433
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_102
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 433
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_103
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 433
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_104
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 433
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_105
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 433
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_106
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 433
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_107
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 433
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_108
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 433
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_109
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 433
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_110
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 433
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_111
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 433
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_113
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 385
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_114
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 385
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_115
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 385
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 385
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_117
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 385
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_118
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 385
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_119
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 385
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_120
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 385
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_121
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 385
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_122
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 385
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_123
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 385
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_124
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 385
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_125
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 385
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_126
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 385
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_127
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 385
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 337
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_129
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 337
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_130
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 337
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_131
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 337
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_132
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 337
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_133
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 337
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_134
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 337
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_135
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 337
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_136
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 337
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_137
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 337
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_138
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 337
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_139
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 337
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_140
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 337
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_141
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 337
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_142
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 337
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_143
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 337
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_145
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 289
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_146
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 289
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_147
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 289
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_148
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 289
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_149
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 289
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_150
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 289
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_151
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 289
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 289
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_153
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 289
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_154
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 289
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_155
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 289
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_156
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 289
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_157
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 289
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_158
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 289
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_159
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 289
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_161
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_162
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_163
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_164
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_165
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_166
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_167
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_168
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_169
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_170
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_171
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_172
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_173
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_174
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_175
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_177
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 193
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_178
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 193
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_179
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 193
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_180
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 193
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_181
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 193
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_182
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 193
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_183
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 193
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_184
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 193
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_185
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 193
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_186
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 193
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_187
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 193
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_188
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 193
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_189
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 193
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_190
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 193
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_191
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 193
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_193
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 145
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_194
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 145
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_195
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 145
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_196
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 145
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_197
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 145
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_198
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 145
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_199
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 145
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_200
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 145
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_201
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 145
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_202
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 145
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_203
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 145
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_204
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 145
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_205
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 145
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_206
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 145
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_207
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 145
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_209
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_210
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_211
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_212
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_213
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_214
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_215
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_216
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_217
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_218
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_219
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_220
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_221
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_222
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_223
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_225
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_226
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_227
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_228
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_229
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_230
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_231
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_232
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_233
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_234
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_235
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_236
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_237
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_238
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_239
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_241
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_242
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_243
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_244
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_245
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_246
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_247
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_248
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_249
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_250
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_251
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_252
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_253
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_254
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: mc sprite_255
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
